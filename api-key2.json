@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "levi-205416",
+  "private_key_id": "a9177ca85bf8c82e3d260ecb7f01a16d4a4d01a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCj/XNIwe16QKfI\nMaJnC+8LS1VOMTvVOoVoZufCyXP8cIfHzVADvgN9TzV+fGIUUfSzja7VRPjq82Ve\ncHp11NW2nEua6U3FMqF6/0fNiWJhCZq9FMYwW44b2fiMbzjSfS64UJgvKMcmjGdc\ncTRWXP6/oZb+RkWi+ojlYAUQpwPyb+Elu/Nwoma07shd7dUwNsAROsJvRga5IHne\nh5RJ47eIsVkrq235uzk2YduRVPgCrq1yG89V7Ko2I/t9rk42zsb/g5hO0MoFzVPF\nk9DsvuD7/RONYq4LCwbIj3hoDTOOU5mQeiaXgjan1h5RIyuOd+wgZknV8NcH5Xf/\noTCfoQMfAgMBAAECggEAPHteyIfVuVAdUYWU2yKYoHbBWJxp7+OsjmvdsIayQ3mR\naox7pVWwXcgX97WSSuJLOOnZgIj2sVjhmyoq0EiWJcqRS+oeJ8vbqMx8Q/8WjKmJ\nK5F84xrxV65VsB3ZPDC1SX9YEZSdlscT3BFYdz3HKxBC6zcpucljMg3u8ExY9VHc\nGK2uf0WECc8fN26zFd+vI/zHMFP3eOY5WoKuUaPNcxVBooi0Xr6C9g+2hVOGGfjc\n/1nymcnVTwnJfGPgfFTy/Pymh37xEN+cZLeZ/QY1lowh4mRHjh4wQn8E6tiNOryQ\nsgS0EWdVT9DVATyZ91L6P8rv8bfl/8zDGXp9cZPiSQKBgQDkOHWQSFwxdaNsnK1C\nwsR1p8aMMsb2o+XE+bVQK28MKG9upUQMg/RmIu6WLgVuj4OeE3j2RRHPHBw+GU8g\n/uW04HaZFaLFGBtYWLvwqEhe+d+sYrR6myuI/SNfeaLn/bz11ydqf0vIPUqiq1rI\nowJwCPAsVwoAH80ynH+0z81O/QKBgQC384P5K/BMqTRoMZVcE/a7yJ3loCMBlcG9\n5i/vvvw/GnQ3e6EE4KoSkG4QiZOEb1sR/nf0PC3OHkQE9y7nOsE+lXbZwAhXI66Z\nyAiZRJk4JdTT1meO40m/umuggsAq+Pz044OqSiVZyG8yH2qT9TQT9huS5GuKJ8WL\nUYLpt04LSwKBgBSq5EKnuumjvKQGYE5ucvowsnNZ2djWKOW4s2nKNSlFtCmx/8Ke\nZJCnUzH4gvdrOcEkBE1RHfbClfAtvJPBYa4KsdLVOcNdloRerM5zfvJS8KWc3rlH\nuh6SxhRMYKtfuDAPRvuHAablng+zMup+kKbyuEVbsIUoXB3cPFh0hSRFAoGAbkQt\n5w48pGeFP7QBOUnKTDRs2fnNIiUYFvJF5+vPHzCHW77i/Z6CtFAZehZN9EQgDkBA\nvYnZV0XzNhrJ5dflgNNthAfFuB5uikZLSTzCr9KVqkpKl2+NhL2FyJi4AspwL4e2\nJDz/+LraVOxaIckJZ7HOQ5ZjFFTU6Ld6xwiXYtMCgYEAzD7mGormodqpkeq+rdmL\nbKw35BBySZkVlaarqmXkRB4ffjZnvHKXnjUix6OrGbABU15+m/GgPRmuVni8rKIe\nmg1WEJVsOjcEACJNIlhX7hry/KyEPHL8PTp9p61gKOT77DJN3Wfg4tpM+WzLid3o\nKVubRhL1YTnpyndwU6ZdE/Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "levi-699@levi-205416.iam.gserviceaccount.com",
+  "client_id": "105933556221893646345",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/levi-699%40levi-205416.iam.gserviceaccount.com"
+}
