@@ -28,7 +28,7 @@ Levi's functions are somewhat limited with Levi 1.0
 ***
 Check to make sure all necessary Libraries are installed. 
 **download voice of "Lee" (en-aus) in Dictation settings for Mac**. 
-
+**download voice of "Juan" (Spanish) in Dictation settings for Mac**. 
 Should be able to run "pip install -r requirements.txt" from command line to download the necessary libraries. 
 1. google-api-python-client==1.6.4
 2. httplib2==0.10.3
